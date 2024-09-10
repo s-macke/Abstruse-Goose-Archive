@@ -2,8 +2,8 @@
 
 # Abstruse-Goose
 
-In 2023 the [Abstruse Goose](https://abstrusegoose.com/) website went offline.
-It hosted at the end 512 comics.
+In 2023 the awesome website [Abstruse Goose](https://abstrusegoose.com/) went offline.
+It hosted at the end around 520 comics.
 
 This repository contains a mirror of the comics that were available on
 the website around the time of the shutdown. 
@@ -16,7 +16,23 @@ contain any contact information.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/us/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-# Comics
+# Comics Paged
+
+- [Page   0 -  50](comics/page-0-50.md)
+- [Page  50 - 100](comics/page-50-100.md)
+- [Page 100 - 150](comics/page-100-150.md)
+- [Page 150 - 200](comics/page-150-200.md)  
+- [Page 200 - 250](comics/page-200-250.md)
+- [Page 250 - 300](comics/page-250-300.md)
+- [Page 300 - 350](comics/page-300-350.md)
+- [Page 350 - 400](comics/page-350-400.md)
+- [Page 400 - 450](comics/page-400-450.md)
+- [Page 450 - 500](comics/page-450-500.md)  
+- [Page 500 - 550](comics/page-500-550.md)
+- [Page 550 - 600](comics/page-550-600.md)
+- [Page 600 - 611](comics/page-600-650.md)
+
+# Comics Single
 
 - [#1 Convergent Subsequence](comics/1.md)
 - [#3 SETI Finally Receives a Signal](comics/3.md)
