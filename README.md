@@ -1,6 +1,6 @@
 ![img](AGlogo.PNG)
 
-# Abstruse-Goose
+# Abstruse-Goose-Archive
 
 In 2023 the awesome website [Abstruse Goose](https://abstrusegoose.com/) went offline.
 It hosted at the end around 520 comics.
